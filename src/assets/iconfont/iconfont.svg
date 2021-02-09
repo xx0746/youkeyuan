@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="liebiao" unicode="&#58922;" d="M448 352H96c-19.2 0-32-12.8-32-32v-352c0-19.2 12.8-32 32-32h352c19.2 0 32 12.8 32 32V320c0 19.2-12.8 32-32 32z m0 480H96c-19.2 0-32-12.8-32-32v-352c0-19.2 12.8-32 32-32h352c19.2 0 32 12.8 32 32V800c0 19.2-12.8 32-32 32z m480 0H576c-19.2 0-32-12.8-32-32v-352c0-19.2 12.8-32 32-32h352c19.2 0 32 12.8 32 32V800c0 19.2-12.8 32-32 32z m0-480H576c-19.2 0-32-12.8-32-32v-352c0-19.2 12.8-32 32-32h352c19.2 0 32 12.8 32 32V320c0 19.2-12.8 32-32 32z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="liebiao1" unicode="&#59012;" d="M341.333333 725.333333h568.888889v-113.777777H341.333333zM113.777778 725.333333h113.777778v-113.777777H113.777778zM113.777778 440.888889h113.777778v-113.777778H113.777778zM113.777778 156.444444h113.777778v-113.777777H113.777778zM341.333333 156.444444h568.888889v-113.777777H341.333333zM341.333333 440.888889h568.888889v-113.777778H341.333333z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
